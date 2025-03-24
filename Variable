@@ -1,4 +1,4 @@
-Tourist Data Input: A C Variable Exercise
+Tourist Data Input: A C Variable Exercise.
 #include <stdio.h>
 
 int main() {
